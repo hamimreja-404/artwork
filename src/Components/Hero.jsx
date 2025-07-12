@@ -91,7 +91,7 @@ export default function Hero() {
               <img className="w-[40px] rounded-full" src={LOGO} alt="" />
             </div>
             <h1 className="text-white font-bold text-2xl">
-              Rohit Choudhary Arts
+            CanvasPro
             </h1>
           </div>
 
